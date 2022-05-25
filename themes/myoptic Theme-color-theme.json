@@ -297,7 +297,7 @@
 		},
 		{
 			"name": "JSON String",
-			"scope": "meta.structure.dictionary.json string.quoted.double.json",
+			"scope": "meta.structure.dictionary.json, string.quoted.double.json",
 			"settings": {
 				"foreground": "#000000"
 			}
