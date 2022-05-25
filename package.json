@@ -1,0 +1,21 @@
+{
+    "name": "eyecare-theme",
+    "displayName": "eyeCare Theme",
+    "description": "A theme to help those with myopia or just generally want to use a theme designed to be syntactic and help you read the code better",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "eyeCare Theme",
+                "uiTheme": "vs",
+                "path": "./themes/eyeCare Theme-color-theme.json"
+            }
+        ]
+    }
+}
