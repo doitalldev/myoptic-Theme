@@ -3,9 +3,10 @@
 	"type": "light",
 	"colors": {
 		"dropdown.background": "#ffffff",
-		"list.activeSelectionBackground": "#fdfdfd",
-		"quickInputList.focusBackground": "#414339",
-		"dropdown.listBackground": "#1e1f1c",
+		"list.activeSelectionBackground": "#e7e7e7",
+		"list.activeSelectionForeground": "#000000",
+		"quickInputList.focusBackground": "#e7e7e7",
+		"dropdown.listBackground": "#ffffff",
 		"list.inactiveSelectionBackground": "#e7e7e7",
 		"list.hoverBackground": "#fdfdfd",
 		"list.dropBackground": "#ffffff",
