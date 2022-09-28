@@ -1,8 +1,9 @@
 {
     "name": "myoptic",
     "displayName": "Myoptic Theme",
-    "description": "A theme to help those with myopia or just generally want to use a theme designed to be syntactic and help you read the code better",
+    "description": "A theme to help those with myopia or just generally want to use a theme designed to be syntactic and help you read the code better.",
     "publisher": "refactorthis",
+    "icon": "images/myopticIcon.png",
     "version": "1.0.1",
     "repository": {
         "type": "git",
