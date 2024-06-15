@@ -4,6 +4,14 @@
   "description": "A light theme for your eyes. Utilizing generated colors designed to help you read your code better with less eye strain.",
   "publisher": "doitalldev",
   "type": "light",
+  "keywords": [
+    "theme",
+    "light",
+    "myoptic",
+    "eye",
+    "care",
+    "syntactic theme"
+  ],
   "colors": {
       "editor.background": "#FAFAFA",
       "editor.foreground": "#333333",
