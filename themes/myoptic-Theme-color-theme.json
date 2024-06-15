@@ -12,6 +12,10 @@
     "care",
     "syntactic theme"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/doitalldev/myoptic-Theme"
+  },
   "colors": {
       "editor.background": "#FAFAFA",
       "editor.foreground": "#333333",
