@@ -9,7 +9,7 @@
       "url": "https://github.com/doitalldev/myoptic-Theme"
     },
     "icon": "images/myopticIcon.png",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "engines": {
         "vscode": "^1.67.0"
     },
