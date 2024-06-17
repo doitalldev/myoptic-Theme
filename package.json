@@ -1,24 +1,18 @@
 {
     "name": "myoptic-Theme-color-theme",
-    "displayName": "Myoptic Eye Care Theme",
-    "description": "A theme to help those with myopia or just generally want to use a theme designed to be syntactic and help you read the code better.",
+    "displayName": "Myoptic Eye Care",
+    "description": "A light theme for your eyes. Utilizing generated colors designed to help you read your code better with less eye strain.",
     "publisher": "doitalldev",
-    "icon": "images/myopticIcon.png",
-    "version": "1.0.6",
+    "keywords": ["theme", "light", "myoptic", "eye", "care", "syntactic theme", "myopia"],
     "repository": {
-        "type": "git",
-        "url": "https://github.com/refactor-this/myoptic-Theme"
+      "type": "git",
+      "url": "https://github.com/doitalldev/myoptic-Theme"
     },
+    "icon": "images/myopticIcon.png",
+    "version": "2.0.0",
     "engines": {
         "vscode": "^1.67.0"
     },
-    "keywords": [
-        "theme",
-        "light theme",
-        "light theme for eyes",
-        "eye theme",
-        "myopia"
-    ],
     "categories": [
         "Themes"
     ],

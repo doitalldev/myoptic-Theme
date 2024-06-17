@@ -1,28 +1,33 @@
 
-Background Colors
-Soft White: #FAFAFA
-Light Gray: #F0F0F0
-Text Colors
-Dark Gray: #333333 (for general text)
-Medium Gray: #666666 (for secondary text)
-Accent Colors
-Rich Red: #CC3333 (for keywords)
-Muted Green: #009900 (for strings)
-Warm Orange: #CC6600 (for constants and numbers)
-Soft Purple: #9933CC (for function names)
-Comments
-Grayish Green: #7D8B99
-Line Highlight
-Bright Blue Gray: #ADD8E6
-Cursor
-Rich Red: #CC3333
-Example of Usage
-Background: Soft White (#FAFAFA)
-Text: Dark Gray (#333333)
-Keywords: Rich Red (#CC3333)
-Strings: Muted Green (#009900)
-Constants/Numbers: Warm Orange (#CC6600)
-Function Names: Soft Purple (#9933CC)
-Comments: Grayish Green (#7D8B99)
-Line Highlight: Bright Blue Gray (#ADD8E6)
-Cursor: Rich Red (#CC3333)
+Primary Colors
+Background: #ffffff
+Text: #222222
+Comments: #c7c7c7
+Vars/Props: #ff8c00
+Keywords: #b22222
+Numbers: #228b7c
+Classes/constants: #004a8b
+Functions/methods: #9933cc
+Strings: #228B22
+Operators/special functions: #9933cc
+
+
+Light: #9933cc18
+Dark: #9933cc
+
+Light: #ff8c001c
+Secondary: #ff8c0083
+Dark: #FF8C00
+
+Light: #b2222222
+Dark: #B22222
+
+Light: #98FB98
+Dark: #228B22
+
+Light: #ADD8E6
+Secondary: #66afe0
+Dark: #00008B
+
+Light: #36D5BF 
+Dark: #228b7c
